@@ -2,8 +2,6 @@
 
 Newest sourced dashboard only; no older demos or ZIP archives.
 
-Publication status: the dashboard source and data are prepared for a following approved commit. Until those files are committed, this repository is not runnable.
-
 Open `index.html` with all repository files together. No install or credentials needed. Optionally run `python -m http.server 8000` for a stable browser-storage origin.
 
 Initial data: 17 indicators, 114 sourced observations, 109 unique indicator-months. History is partial; three HVAC component series have one point each. Source dates are not certified first releases. No synthetic values, interpolation, live scraper, ISM forecast engine or equity-factor engine.
